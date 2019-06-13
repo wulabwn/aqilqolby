@@ -1,0 +1,37 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.jumbotron{
+background-image: url('img/bg-2.jpg');
+}
+
+.ig-thumbnail{
+	width: 100px;
+	height: 100px;
+	float: left;
+	overflow: hidden;
+}
+
+.ig-thumbnail img{
+	width: 100px;
+}
+.name-color{
+	color:#ffff;
+}
+.class { 
+	font-family: Allerta Stencil; 
+}
